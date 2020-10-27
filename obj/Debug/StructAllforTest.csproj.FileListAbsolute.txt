@@ -1,0 +1,6 @@
+D:\работа\Ильяс\StructAllforTest\bin\Debug\StructAllforTest.dll
+D:\работа\Ильяс\StructAllforTest\bin\Debug\StructAllforTest.pdb
+D:\работа\Ильяс\StructAllforTest\obj\Debug\StructAllforTest.csprojAssemblyReference.cache
+D:\работа\Ильяс\StructAllforTest\obj\Debug\StructAllforTest.csproj.CoreCompileInputs.cache
+D:\работа\Ильяс\StructAllforTest\obj\Debug\StructAllforTest.dll
+D:\работа\Ильяс\StructAllforTest\obj\Debug\StructAllforTest.pdb
