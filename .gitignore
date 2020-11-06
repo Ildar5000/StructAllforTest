@@ -1,0 +1,17 @@
+*.dll
+
+*.p7s
+
+bin/*
+
+*.cache
+
+.vs/*
+
+obj/*
+obj\*
+
+packages/*
+
+*.cache
+
