@@ -8,9 +8,9 @@ namespace StructAllforTest
 {
     public interface EventSubscriptionInterface
     {
-        void Start_Subscription();
+        void StartSubscription();
 
-        delegate void execution_processing_reguest(object struct_transfer);
+        //delegate void execution_processing_reguest(object struct_transfer);
 
         #region События
 

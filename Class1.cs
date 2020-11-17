@@ -49,17 +49,6 @@ namespace StructAllforTest
 
     }
 
-    [Serializable]
-    public struct Test5SendStruct
-    {
-        public string name;
-        public string fre;
-        public string ab;
-        public string cd;
-        public int count;
-    }
-
-
     public class TestStruct
     {
 
@@ -97,13 +86,13 @@ namespace StructAllforTest
 
         }
 
-        public void Start_Subscription()
+        public void StartSubscription()
         {
             throw new NotImplementedException();
         }
 
         //Определение класса
-        public void execution_processing_reguest(object struct_which_need_transfer)
+        public void ExecutionProcessingReguest(object struct_which_need_transfer)
         {
             if (struct_which_need_transfer is MMS)
             {
@@ -139,7 +128,7 @@ namespace StructAllforTest
         }
 
 
-        public void Start_Subscription(object struct_which_need_transfer)
+        public void StartSubscription(object struct_which_need_transfer)
         {
             if (struct_which_need_transfer is VMS)
             {
@@ -153,7 +142,7 @@ namespace StructAllforTest
         }
 
 
-        public void execution_processing_reguest(object struct_which_need_transfer)
+        public void ExecutionProcessingReguest(object struct_which_need_transfer)
         {
             if (struct_which_need_transfer is VMS)
             {
@@ -166,7 +155,7 @@ namespace StructAllforTest
         }
 
 
-        public void Start_Subscription()
+        public void StartSubscription()
         {
             throw new NotImplementedException();
         }
